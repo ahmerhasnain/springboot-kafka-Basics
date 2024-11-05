@@ -26,7 +26,7 @@ STEP 5:  READ THE EVENTS
 D:\kafka>.\bin\windows\kafka-console-consumer.bat --topic topic_demo --from-beginning --bootstrap-server localhost:9092
 hello world
 
-#How to Test Kafka Message Broker.
+# How to Test Kafka Message Broker.
 
 Use the following url.
 http://localhost:8080/api/v1/kafka/publish?message=hello%20World
