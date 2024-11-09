@@ -34,3 +34,8 @@ http://localhost:8080/api/v1/kafka/publish?message=hello%20World
 The message is received to a Message Controller this controller will pass the message to Kafka Producer which will forward the message to broker and the consumer class will consume the message.
 
 I am using a query string to pass the string message.
+
+![image](https://github.com/user-attachments/assets/45883633-3222-45a0-831c-5198c3806755)
+
+![image](https://github.com/user-attachments/assets/f69f2809-a95b-4d71-a3c7-0cde0e41c382)
+
